@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "atomic age country" ] },
+    "summary": { "en": [ "Country music songs addressing nuclear war from 1945-1960" ] },
+    "items": [
+    ]
+}
