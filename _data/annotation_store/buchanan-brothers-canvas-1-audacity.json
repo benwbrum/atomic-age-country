@@ -1,0 +1,562 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-audacity.json",
+  "type": "AnnotationPage",
+  "label": "audacity",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker declines to order wine; states she'll just drink water.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker sighs loudly.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "9"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker explains that earlier in the day she was a guest on an episode of the Rosie O'Donnell Show.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "14"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Walker says she used to walk in Washington Square Park when she lived nearby.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "rhythm",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "21"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker clarifies that she lived in student dorms at NYU with her then boyfriend (and later husband) in the late 1960s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "36"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker leaves to wash her hands.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Walker laughs quietly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "laughter",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Gussow and Walker discuss how close their children are in age and the fact that they lived nearby each other (in the Washington Square Park area) in the late 1960s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50,110"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Walker initiates a \"\"cheers\"\".\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "121"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Walker laughs more loudly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "laughter",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "126"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The violence is not gonna work for me. I don't care who's doing it. There's just no end to it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "207,212"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In a way, it just isn't radical enough. Violence—it's not radical enough.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "245,249"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, actually love is more radical than violence. And it's more subversive, generally. And it's harder to do. And that's why people would rather, you know, have violence.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252,264"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Walker laughs loudly.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "laughter",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "263"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "Walker laughs.",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "laughter",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "311"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "People do change. And they change radically.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "322"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker attributes a family history of alcoholism to Irish-Scottish ancestry.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "382"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"On her grandfather's past abuse of her grandmother: \"\"I feel that I was born partly to heal that, to look at it and see who they both were in essence.\"\"\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "424"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "\"Walker confirms her grandfather was a \"\"role model\"\" for the character of \"\"Mister\"\" in The Color Purple.\"",
+          "format": "text/plain",
+          "purpose": "commenting"
+        },
+        {
+          "type": "TextualBody",
+          "value": "rhythm",
+          "format": "text/plain",
+          "purpose": "tagging"
+        }
+      ],
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "451"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Walker on her ex-husband: \"\"He's a very good man.\"\"\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "486"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Walker describes the nature of her relationship with her ex-husband.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "470,562"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Walker says her marriage (the first interracial marriage in Mississippi) changed the state \"\"a lot\"\".\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "520"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-canvas-1-audacity-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Walker discusses \"\"being tired\"\" and how it changes her as a person.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "560,652"
+        }
+      }
+    }
+  ]
+}

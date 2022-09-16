@@ -1,5 +1,5 @@
 ---
-index term: rhythm
+index_term: rhythm
 title: rhythm
 layout: term
 

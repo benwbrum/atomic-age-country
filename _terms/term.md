@@ -1,5 +1,5 @@
 ---
-index term: term
+index_term: term
 title: term
 layout: term
 

@@ -8,6 +8,14 @@
         "id": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
         "type": "Canvas",
         "duration": 203.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-audacity.json",
+            "label": "audacity"
+          }
+        ],
         "items": [
           {
             "id": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/paintings",
