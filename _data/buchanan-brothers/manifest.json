@@ -3,6 +3,13 @@
     "id": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/manifest.json",
     "type": "Manifest",
     "label": { "en": [ "Buchanan Brothers" ] },
+    "provider": [
+      {
+        "id": "archive.org",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
     "items": [
       {
         "id": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
