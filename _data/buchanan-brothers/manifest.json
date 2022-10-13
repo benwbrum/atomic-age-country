@@ -19,8 +19,32 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-singlelayer2.json",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-sound-.json",
+            "label": "Sound "
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-poem.json",
+            "label": "Poem"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-image.json",
+            "label": "Image"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-singlelayer2.json",
             "label": "SingleLayer2"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-canvas-1-buchanan-brothers-canvas-1-transcription.json",
+            "label": "Transcription"
           }
         ],
         "items": [
