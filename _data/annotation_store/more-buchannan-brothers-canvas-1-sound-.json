@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/atomic-age-country/annotations/more-buchannan-brothers-canvas-1-sound-.json",
+  "type": "AnnotationPage",
+  "label": "Sound ",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "more-buchannan-brothers-canvas-1-sound--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/more-buchannan-brothers/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.0,3"
+        }
+      }
+    }
+  ]
+}
