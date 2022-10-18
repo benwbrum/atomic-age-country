@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/atomic-age-country/annotations/buchanan-brothers-again-canvas-1-poem.json",
+  "type": "AnnotationPage",
+  "label": "Poem",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "buchanan-brothers-again-canvas-1-poem-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "CR reads opening poem from Just Us, What does it Mean to Want?",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://benwbrum.github.io/atomic-age-country/buchanan-brothers-again/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "235,274"
+        }
+      }
+    }
+  ]
+}
