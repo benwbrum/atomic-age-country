@@ -1,0 +1,2 @@
+{{ site.data[page.manifest_name].manifest | jsonify }}
+
