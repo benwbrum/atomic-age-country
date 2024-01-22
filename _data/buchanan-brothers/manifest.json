@@ -29,5 +29,22 @@
           }
         ]
       }
-    ]
+    ],
+   "structures":[
+      {
+         "id":"https://benwbrum.github.io/atomic-age-country/buchanan-brothers/range/r0",
+         "type":"Range",
+         "label":{
+            "en":[
+               "Default"
+            ]
+         },
+         "items":[
+            {
+               "id":"https://benwbrum.github.io/atomic-age-country/buchanan-brothers/canvas-1/canvas",
+               "type":"Canvas"
+            }
+         ]
+      }
+   ]
 } 
